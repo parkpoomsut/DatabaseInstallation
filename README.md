@@ -29,3 +29,5 @@
 - เมื่อทำการติดตั้งแล้ว จะปรากฏชื่อ Database ที่กำหลัง Connect อยู่ทางซ้ายมือของ "Object Explorer"
 <img src="https://github.com/parkpoomsut/Install-SQL-Server-And-SSMMS/blob/master/assets/databaseEngine.gif?raw=true"/>
 
+2.5 ลองสร้างฐานข้อมูลด้วย SQL Code ดังต่อไปนี้
+- Download Create Dadabase 
