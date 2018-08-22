@@ -1,4 +1,4 @@
-# Install-SQL-Server-and-SSMMS
+# Installation of SQL Server and SSMMS
 
 # 1 Download and install 
 # SQL Server 2017 Developer
