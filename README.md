@@ -24,5 +24,6 @@ https://download.microsoft.com/download/0/5/B/05B2AF8F-906F-4C57-A58E-5780F64F9D
 
 2.4 Select Database Engine and Connect
 - ในแต่ละเครื่อง จะมี Server Name ที่แตกต่างกันออกไป โดยปกติแล้วจะเป็นชื่อเครื่องตั้งต้น
+- เมื่อทำการติดตั้งแล้ว จะปรากฏชื่อ Database ที่กำหลัง Connect อยู่ทางซ้ายมือของ "Object Explorer"
 <img src="https://github.com/parkpoomsut/Install-SQL-Server-And-SSMMS/blob/master/assets/databaseEngine.gif?raw=true"/>
 
