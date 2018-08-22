@@ -27,6 +27,8 @@
 2.4 Select Database Engine and Connect
 - ในแต่ละเครื่อง จะมี Server Name ที่แตกต่างกันออกไป โดยปกติแล้วจะเป็นชื่อเครื่องตั้งต้น 
 หลังจากติดตั้ง เชื่อต่อฐานข้อมูลแล้ว จะปรากฏชื่อ Database ที่กำลัง Connect อยู่ทางซ้ายมือของ "Object Explorer"
+* หากไม่ปรากฏ Database Engine ที่สามารถเขื่อมต่อได้ ให้ลองทำตามขั้นตอนดังต่อไปนี้ (การสร้าง Database Engine)
+https://youtu.be/LLc950xLRSM
 <img src="https://github.com/parkpoomsut/Install-SQL-Server-And-SSMMS/blob/master/assets/databaseEngine.gif?raw=true"/>
 
 # 2.5 สร้างฐานข้อมูลด้วย SQL Code ดังต่อไปนี้
