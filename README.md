@@ -30,13 +30,15 @@
 <img src="https://github.com/parkpoomsut/Install-SQL-Server-And-SSMMS/blob/master/assets/databaseEngine.gif?raw=true"/>
 
 2.5 ลองสร้างฐานข้อมูลด้วย SQL Code ดังต่อไปนี้
-- Download Create Dadabase https://github.com/parkpoomsut/Install-SQL-Server-And-SSMMS/blob/master/Create%20Database.sql
+
 สิ่งที่ต้องคำนึงถึงในการสร้าง Database คือ
 1. ชื่อฐานข้อมูล ต้องไม่ซ้ำกับฐานข้อมูลที่เคยสร้างไปแล้ว
 2. ชื่อฐานข้อมูล และ Log ต้องเป็นชื่อที่สอดคล้องกัน และตามด้วย _DAT และ _LOG ตามลำดับ (เลข 2 และ 4)
 3. ชื่อ Directory หรือ Folder ต้องถูกสร้างไว้ก่อนแล้วในที่ใดก็ได้ เช่น C:/B5XXXXXX และต้องพิมพ์ให้ตรงกันกับใน Code
 หากไม่สามารถสร้างใน Drive C: ได้ (ติด Permission) ให้ลองสร้างใน Folder ของตัวเอง หรือ ใน MyDocuments เป็นต้น
 4. ชื่อฐานข้อมูล .mdf และ .ldf ในหมายเลข 3 และ 5 ตามลำดับ ชื่อต้องสอดคล้องกัน
+
+- Download Create Dadabase https://github.com/parkpoomsut/Install-SQL-Server-And-SSMMS/blob/master/Create%20Database.sql
 <img src="https://github.com/parkpoomsut/Install-SQL-Server-And-SSMMS/blob/master/assets/CreateDatabase.png?raw=true"/>
 
 2.6 หลังจากสร้าง Database จะปรากฏชื่อฐาข้อมูลขึ้นใน Database ใน Object Explorer
