@@ -1,6 +1,7 @@
 # Install-SQL-Server-and-SSMMS
 
-# 1 Download and install Download SQL Server 2017 Developer URL
+# 1 Download and install 
+# SQL Server 2017 Developer
 - https://download.microsoft.com/download/5/A/7/5A7065A2-C81C-4A31-9972-8A31AC9388C1/SQLServer2017-SSEI-Dev.exe
 
 1.1 Install Select "Basic"
@@ -10,8 +11,9 @@
 <img src="https://github.com/parkpoomsut/Install-SQL-Server-And-SSMMS/blob/master/assets/CloseAfter.png?raw=true"/>
 
 
-# 2 Download and install SQL Server Management Studio 17.8.1
-https://download.microsoft.com/download/0/5/B/05B2AF8F-906F-4C57-A58E-5780F64F9D62/SSMS-Setup-ENU.exe
+# 2 Download and install SQL
+# Server Management Studio 17.8.1
+- https://download.microsoft.com/download/0/5/B/05B2AF8F-906F-4C57-A58E-5780F64F9D62/SSMS-Setup-ENU.exe
 
 2.1 Install SQL Server Management Studio 17.8.1
 <img src="https://github.com/parkpoomsut/Install-SQL-Server-And-SSMMS/blob/master/assets/2.1install.png?raw=true"/>
@@ -23,7 +25,7 @@ https://download.microsoft.com/download/0/5/B/05B2AF8F-906F-4C57-A58E-5780F64F9D
 <img src="https://github.com/parkpoomsut/Install-SQL-Server-And-SSMMS/blob/master/assets/openapp.gif?raw=true"/>
 
 2.4 Select Database Engine and Connect
-- ในแต่ละเครื่อง จะมี Server Name ที่แตกต่างกันออกไป โดยปกติแล้วจะเป็นชื่อเครื่องตั้งต้น
+- ในแต่ละเครื่อง จะมี Server Name ที่แตกต่างกันออกไป โดยปกติแล้วจะเป็นชื่อเครื่องตั้งต้น ที่ทำการติดตั้ง
 - เมื่อทำการติดตั้งแล้ว จะปรากฏชื่อ Database ที่กำหลัง Connect อยู่ทางซ้ายมือของ "Object Explorer"
 <img src="https://github.com/parkpoomsut/Install-SQL-Server-And-SSMMS/blob/master/assets/databaseEngine.gif?raw=true"/>
 
