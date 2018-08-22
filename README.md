@@ -22,8 +22,8 @@ https://download.microsoft.com/download/0/5/B/05B2AF8F-906F-4C57-A58E-5780F64F9D
 <img src="https://github.com/parkpoomsut/Install-SQL-Server-And-SSMMS/blob/master/assets/installisfinish.gif?raw=true"/>
 
 2.3 Open " SQL Server Management Studio "
-<img src=""/>
+<img src="https://github.com/parkpoomsut/Install-SQL-Server-And-SSMMS/blob/master/assets/openapp.gif?raw=true"/>
 
 2.4 Select Database Engine and Connect
-<img src=""/>
+<img src="https://github.com/parkpoomsut/Install-SQL-Server-And-SSMMS/blob/master/assets/databaseEngine.gif?raw=true"/>
 
