@@ -19,7 +19,7 @@ https://download.microsoft.com/download/0/5/B/05B2AF8F-906F-4C57-A58E-5780F64F9D
 <img src="https://github.com/parkpoomsut/Install-SQL-Server-And-SSMMS/blob/master/assets/2.1install.png?raw=true"/>
 
 2.2 Cloase After SQL Server Management Studio 17.8.1 is Installed
-<img src="https://github.com/parkpoomsut/Install-SQL-Server-And-SSMMS/blob/master/assets/install%20Finish.gif?raw=true"/>
+<img src="https://github.com/parkpoomsut/Install-SQL-Server-And-SSMMS/blob/master/assets/installisfinish.gif?raw=true"/>
 
 2.3 Open " SQL Server Management Studio "
 <img src=""/>
