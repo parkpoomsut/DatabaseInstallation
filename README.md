@@ -30,4 +30,11 @@
 <img src="https://github.com/parkpoomsut/Install-SQL-Server-And-SSMMS/blob/master/assets/databaseEngine.gif?raw=true"/>
 
 2.5 ลองสร้างฐานข้อมูลด้วย SQL Code ดังต่อไปนี้
-- Download Create Dadabase 
+- Download Create Dadabase [Source Code]
+[ภาพการ Code สร้าง Database]
+
+2.6 หลังจากสร้าง Database จะปรากฏชื่อฐาข้อมูลขึ้นใน Database ใน Object Explorer
+[Gif ของการสร้าง Database]
+
+2.7 หลังจากทำการสร้าง Database แล้ว ให้ทำการสร้างตาราง Table ตัวอย่างเช่น ตาราง Customer ดังภาพ
+[Gif ของการสร้าง Customer Table]
